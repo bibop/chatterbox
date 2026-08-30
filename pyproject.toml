@@ -20,7 +20,7 @@ dependencies = [
     "diffusers>=0.38.0",
     "resemble-perth @ git+https://github.com/resemble-ai/Perth.git@master",
     "conformer==0.3.2",
-    "safetensors==0.5.3",
+    "safetensors>=0.8.0",
     "spacy-pkuseg",
     "pykakasi==2.3.0",
     "gradio>=6.15.1",
